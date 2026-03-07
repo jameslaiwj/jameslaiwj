@@ -1,4 +1,4 @@
-# Hi, I'm James 👋
+# Hi, I'm James Lai 👋
 
 Data Analytics Graduate transitioning from 5 years in logistics 
 operations into data analytics. I enjoy turning messy data into 
