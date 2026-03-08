@@ -16,7 +16,7 @@ A machine learning classification tool that reduced manual music
 tagging from 110 hours to 2 hours at zero cost, helping indie 
 artists get discovered through sync licensing.
 
-🔗 [View Project](link to your capstone repo here)
+🔗 [View Project](https://github.com/jameslaiwj/emotion-music-tagger)
 🔗 [View Dashboard](https://public.tableau.com/app/profile/jameslaiwj/viz/Tableau_Interactive_Dashboard-Server/1_EmotionDistribution)
 
 ## Currently
