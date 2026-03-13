@@ -66,7 +66,7 @@ Built a Random Forest Classifier on 278K songs achieving 91% accuracy in emotion
 - Tiered confidence model: Perfect / Acceptable / Error
 
 🔗 [View Project](https://github.com/jameslaiwj/emotion-music-tagger)
-🔗 [View Dashboard](https://public.tableau.com/app/profile/jameslaiwj)
+🔗 [View Dashboard](https://public.tableau.com/app/profile/jameslaiwj/viz/Tableau_Interactive_Dashboard-Server/1_EmotionDistribution)
 
 ---
 ## Currently
@@ -74,21 +74,14 @@ Built a Random Forest Classifier on 278K songs achieving 91% accuracy in emotion
 - 💻 Practising SQL on LeetCode
 - 🌱 Building my portfolio site at __jameslaiwj.github.io__
 
+---
+## Outside of Work
+When I'm not wrangling data, you'll find me at badminton, the gym, or out hitting 10,000 steps. I bring the same discipline and consistency to everything I do, whether that's a dataset or a daily routine.
+
 ## Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/jameslaiwj/)
 - [Tableau Public](https://public.tableau.com/app/profile/jameslaiwj/vizzes)
 
-<!--
-**jameslaiwj/jameslaiwj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <em>"Always growing, always building, just pointed in a new direction."</em>
+</p>
