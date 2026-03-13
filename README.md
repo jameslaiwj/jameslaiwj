@@ -4,17 +4,13 @@
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/jameslaiwj/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://public.tableau.com/app/profile/jameslaiwj">
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  </a>
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/></a>
   <a href="mailto:jameslai1999@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://jameslaiwj.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+    <img src="https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
@@ -77,10 +73,6 @@ Built a Random Forest Classifier on 278K songs achieving 91% accuracy in emotion
 ---
 ## Outside of Work
 When I'm not wrangling data, you'll find me at badminton, the gym, or out hitting 10,000 steps. I bring the same discipline and consistency to everything I do, whether that's a dataset or a daily routine.
-
-## Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/jameslaiwj/)
-- [Tableau Public](https://public.tableau.com/app/profile/jameslaiwj/vizzes)
 
 <p align="center">
   <em>"Always growing, always building, just pointed in a new direction."</em>
