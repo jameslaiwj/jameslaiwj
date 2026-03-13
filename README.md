@@ -61,7 +61,7 @@ __🎵 Emotion-Based Music Tagging Tool for Indie Artists__
 > Capstone Project | General Assembly Singapore (2026) 
 
 Built a Random Forest Classifier on 278K songs achieving 91% accuracy in emotion tagging, reducing manual tagging from __110 hours to 2 hours at zero cost__. Designed for indie artists navigating sync licensing.
-- __Python__ (Pandas, Scikit-learn) for the ML pipeline
+- __Python__ (Pandas, Scikit-learn, Matplotlib) for the ML pipeline
 - __Tableau__ interactive dashboard with human-in-the-loop validation
 - Tiered confidence model: Perfect / Acceptable / Error
 
