@@ -4,21 +4,21 @@
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/jameslaiwj/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://public.tableau.com/app/profile/jameslaiwj">
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   </a>
   <a href="mailto:jameslai1999@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://jameslaiwj.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
-# Who I Am
+## Who I Am
 I spent 5 years as an Ammunition Engineer with the Singapore Armed Forces managing mission-critical logistics data under strict compliance standards. It was there I realised data could do more than just logging.
 
 That curiosity led me to the __General Assembly Data Analytics Bootcamp__, where I built real-world projects spanning machine learning, interactive dashboards, and statistical analysis.
@@ -37,23 +37,42 @@ clear business decisions.
 - 🧹 __Clean__ and wrangle messy real-world data into something useful
 - 💡 __Translate__ technical findings into insights non-technical stakeholders can act on
 
+---
+## Tools & Technologies
+__Languages & Libraries__
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square"/>
+</p>
 
+__Data & BI Tools__
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+</p>
 
-
-
+---
 ## Featured Project
-**Emotion-Based Music Tagging Tool for Indie Artists**
-A machine learning classification tool that reduced manual music 
-tagging from 110 hours to 2 hours at zero cost, helping indie 
-artists get discovered through sync licensing.
+__🎵 Emotion-Based Music Tagging Tool for Indie Artists__
+> Capstone Project | General Assembly Singapore (2026) 
+
+Built a Random Forest Classifier on 278K songs achieving 91% accuracy in emotion tagging, reducing manual tagging from __110 hours to 2 hours at zero cost__. Designed for indie artists navigating sync licensing.
+- __Python__ (Pandas, Scikit-learn) for the ML pipeline
+- __Tableau__ interactive dashboard with human-in-the-loop validation
+- Tiered confidence model: Perfect / Acceptable / Error
 
 🔗 [View Project](https://github.com/jameslaiwj/emotion-music-tagger)
-🔗 [View Dashboard](https://public.tableau.com/app/profile/jameslaiwj/viz/Tableau_Interactive_Dashboard-Server/1_EmotionDistribution)
+🔗 [View Dashboard](https://public.tableau.com/app/profile/jameslaiwj)
 
+---
 ## Currently
-- Actively seeking Data Analyst roles
-- Practising SQL on LeetCode
-- Exploring audio analysis with Librosa
+- 📨 Actively seeking Data Analyst roles
+- 💻 Practising SQL on LeetCode
+- 🌱 Building my portfolio site at __jameslaiwj.github.io__
 
 ## Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/jameslaiwj/)
