@@ -72,7 +72,7 @@ Built a Random Forest Classifier on 278K songs achieving 91% accuracy in emotion
 
 ---
 ## Outside of Work
-When I'm not wrangling data, you'll find me at badminton, the gym, or out hitting 10,000 steps. I bring the same discipline and consistency to everything I do, whether that's a dataset or a daily routine.
+When I'm not wrangling data, you'll find me at swimming, the gym, or exploring a new part of Singapore on foot. I bring the same discipline and consistency to everything I do, whether that's a dataset or a daily routine.
 
 <p align="center">
   <em>"Always growing, always building, just pointed in a new direction."</em>
