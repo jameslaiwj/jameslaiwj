@@ -15,26 +15,30 @@
 
 ---
 ## Who I Am
-I spent 5 years as an Ammunition Engineer with the Singapore Armed Forces managing mission-critical logistics data under strict compliance standards. It was there I realised data could do more than just logging.
+I spent 5 years in logistics ground operations with the Singapore Armed Forces, managing inventory, stock reconciliation, and compliance reporting. That's where I learned to care about data accuracy and understand ground-level bottlenecks: lead times, warehouse optimisation, the works. Because in that environment, a discrepancy isn't just a number problem.
 
-That curiosity led me to the __General Assembly Data Analytics Bootcamp__, where I built real-world projects spanning machine learning, interactive dashboards, and statistical analysis.
+That experience pushed me to go further. I joined the General Assembly Data Analytics Bootcamp to __learn how to translate messy operational data into actionable insights for non-technical stakeholders__. I focused my projects on supply chain analytics: inventory performance, supplier analysis, and procurement insights.
 
-I'm now actively seeking __Data Analyst roles__ where I can turn messy data into clear business decisions.
-
-Data Analytics Graduate transitioning from 5 years in logistics 
-operations into data analytics. I enjoy turning messy data into 
-clear business decisions.
+I'm now actively seeking __Supply Chain and Logistics Analyst roles__ in Singapore.
 
 ---
 ## What I Do
-- 🔍 __Analyse__ large datasets to uncover patterns and trends
-- 🤖 __Build__ predictive models using Python and Scikit-learn
-- 📊 __Design__ interactive dashboards in Tableau that tell a story
-- 🧹 __Clean__ and wrangle messy real-world data into something useful
+- 🔍 __Analyse__ inventory and supplier data to surface operational bottlenecks
+- 📊 __Build__ interactive dashboards in Power BI and Tableau that tell a clear story
+- 🔄 __Automate__ manual workflows to reduce processing time and human error
+- 🧹 __Clean__ and wrangle messy real-world data into something decision-ready
 - 💡 __Translate__ technical findings into insights non-technical stakeholders can act on
 
 ---
 ## Tools & Technologies
+__Analytics & BI__
+<p align="center">
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+</p>
+
 __Languages & Libraries__
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
