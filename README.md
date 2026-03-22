@@ -48,7 +48,7 @@ __Libraries__
 </p>
 
 __Techniques__
-EDA · Dashboard Design · DAX · Power Query · Predictive Modelling
+<p align="center">Data Cleaning · Exploratory Data Analysis · Dashboard Development · Data Visualisation · Reporting & Insights</p>
 
 ---
 ## Featured Project
