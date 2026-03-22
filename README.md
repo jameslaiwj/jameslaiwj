@@ -60,6 +60,7 @@ Built a three-page interactive dashboard analysing inventory health, supplier pe
 🔗 [View Project - Coming soon]
 🔗 [Download .pbix](https://drive.google.com/file/d/1K5lEj-72NUtkaOU7GKpffmZuB4htDPt5/view?usp=sharing)
 
+---
 ## Other Project(s)
 __🎵 Emotion-Based Music Tagging Tool for Indie Artists__
 
@@ -75,7 +76,7 @@ Built a Random Forest Classifier on 278K songs achieving 91% accuracy in emotion
 ## Currently
 - 📨 Actively seeking Supply Chain and Logistics Analyst roles in Singapore
 - 💻 Practising SQL on LeetCode
-- 🌱 Portfolio site: __[jameslaiwj.github.io]__(https://jameslaiwj.github.io/)
+- 🌱 Portfolio site: [jameslaiwj.github.io](https://jameslaiwj.github.io/)
 
 ---
 ## Outside of Work
