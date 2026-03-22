@@ -62,7 +62,7 @@ __📦 Supply Chain Analytics Dashboard - Power BI__
 | 📦 Product Insight | Defect rate vs lead time correlation, revenue vs profit margin, and stock level distribution by SKU |
 | 🏭 Supplier Insight | Supplier Segmentation Matrix, availability gaps, profit margins, and cost breakdown by supplier |
 
-- 🛠️ Built With: __Power BI · DAX · Power Query__
+🛠️ Built With: __Power BI · DAX · Power Query__
 
 🔗 [View Project - Coming soon]
 🔗 [Download .pbix](https://drive.google.com/file/d/1K5lEj-72NUtkaOU7GKpffmZuB4htDPt5/view?usp=sharing)
