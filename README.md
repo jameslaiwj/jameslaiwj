@@ -51,11 +51,18 @@ __Techniques__
 <p align="center">Data Cleaning · Exploratory Data Analysis · Dashboard Development · Data Visualisation · Reporting & Insights</p>
 
 ---
-## Featured Project
+## ⭐ Featured Project
 __📦 Supply Chain Analytics Dashboard - Power BI__
 
-Built a three-page interactive dashboard analysing inventory health, supplier performance, and product-level insights across 100 SKUs. Includes a __Supplier Segmentation Matrix to support procurement decisions, dead stock risk flags, and defect rate correlation with lead time__.
-- __Power BI__ (DAX, Power Query)
+> Three-page interactive dashboard analysing inventory health, supplier performance, and product-level insights across 100 SKUs.
+
+| Page | What It Shows |
+|------|--------------|
+| 📊 Overview | Revenue, stock levels, and performance across customer segments, product types, and shipping carriers |
+| 📦 Product Insight | Defect rate vs lead time correlation, revenue vs profit margin, and stock level distribution by SKU |
+| 🏭 Supplier Insight | Supplier Segmentation Matrix, availability gaps, profit margins, and cost breakdown by supplier |
+
+- 🛠️ Built With: __Power BI · DAX · Power Query__
 
 🔗 [View Project - Coming soon]
 🔗 [Download .pbix](https://drive.google.com/file/d/1K5lEj-72NUtkaOU7GKpffmZuB4htDPt5/view?usp=sharing)
