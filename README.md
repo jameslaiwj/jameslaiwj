@@ -52,10 +52,18 @@ __Techniques__
 
 ---
 ## Featured Project
-__🎵 Emotion-Based Music Tagging Tool for Indie Artists__
-> Capstone Project | General Assembly Singapore (2026) 
+__📦 Supply Chain Analytics Dashboard - Power BI__
 
-Built a Random Forest Classifier on 278K songs achieving 91% accuracy in emotion tagging, reducing manual tagging from __110 hours to 2 hours at zero cost__. Designed for indie artists navigating sync licensing.
+Built a three-page interactive dashboard analysing inventory health, supplier performance, and product-level insights across 100 SKUs. Includes a __Supplier Segmentation Matrix to support procurement decisions, dead stock risk flags, and defect rate correlation with lead time__.
+- __Power BI__ (DAX, Power Query)
+
+🔗 [View Project - Coming soon]
+🔗 [Download .pbix](https://drive.google.com/file/d/1K5lEj-72NUtkaOU7GKpffmZuB4htDPt5/view?usp=sharing)
+
+## Other Project(s)
+__🎵 Emotion-Based Music Tagging Tool for Indie Artists__
+
+Built a Random Forest Classifier on 278K songs achieving 91% accuracy in emotion tagging, reducing manual tagging from __110 hours to 2 hours at zero cost__. Designed for indie artists navigating sync licensing. Interest area: Process Automation. 
 - __Python__ (Pandas, Scikit-learn, Matplotlib) for the ML pipeline
 - __Tableau__ interactive dashboard with human-in-the-loop validation
 - Tiered confidence model: Perfect / Acceptable / Error
@@ -65,9 +73,9 @@ Built a Random Forest Classifier on 278K songs achieving 91% accuracy in emotion
 
 ---
 ## Currently
-- 📨 Actively seeking Data Analyst roles
+- 📨 Actively seeking Supply Chain and Logistics Analyst roles in Singapore
 - 💻 Practising SQL on LeetCode
-- 🌱 Building my portfolio site at __jameslaiwj.github.io__
+- 🌱 Portfolio site: __[jameslaiwj.github.io]__(https://jameslaiwj.github.io/)
 
 ---
 ## Outside of Work
