@@ -19,7 +19,7 @@ I spent 5 years in logistics ground operations with the Singapore Armed Forces, 
 
 That experience pushed me to go further. I joined the General Assembly Data Analytics Bootcamp to __learn how to translate messy operational data into actionable insights for non-technical stakeholders__. I focused my projects on supply chain analytics: inventory performance, supplier analysis, and procurement insights.
 
-I'm now actively seeking __Supply Chain and Logistics Analyst roles__ in Singapore.
+I'm now actively seeking __Data & Operations Analyst roles__ in Singapore.
 
 ---
 ## What I Do
