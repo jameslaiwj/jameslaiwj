@@ -81,8 +81,7 @@ Built a Random Forest Classifier on 278K songs achieving 91% accuracy in emotion
 
 ---
 ## Currently
-- 📨 Actively seeking Supply Chain and Logistics Analyst roles in Singapore
-- 💻 Practising SQL on LeetCode
+- 📨 Actively seeking Data & Operations Analyst roles in Singapore
 - 🌱 Portfolio site: [jameslaiwj.github.io](https://jameslaiwj.github.io/)
 
 ---
